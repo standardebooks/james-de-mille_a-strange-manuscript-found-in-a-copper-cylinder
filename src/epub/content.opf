@@ -40,10 +40,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/James_De_Mille</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n83124703</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
+		<dc:contributor id="artist">Charles R. Knight</dc:contributor>
+		<meta property="file-as" refines="#artist">Knight, Charles R.</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Charles Robert Knight</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Charles_R._Knight</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82073093</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Andrew Sly</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sly, Andrew</meta>
