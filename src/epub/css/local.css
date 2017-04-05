@@ -46,3 +46,26 @@ p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
 }
+
+li > p:first-child{
+	text-indent: 0;
+}
+
+ol + p,
+table + p{
+	text-indent: 0;
+}
+
+table{
+	margin: 1em;
+}
+
+table td{
+	padding: .5em;
+	text-align: center;
+}
+
+table thead,
+table tbody td:first-child{
+	font-weight: bold;
+}
