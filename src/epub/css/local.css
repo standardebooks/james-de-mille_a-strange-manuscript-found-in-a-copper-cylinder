@@ -57,7 +57,7 @@ table + p{
 }
 
 table{
-	margin: 1em;
+	margin: 1em auto;
 }
 
 table td{
