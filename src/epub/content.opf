@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder</dc:identifier>
 		<dc:date>2017-05-01T22:46:41Z</dc:date>
-		<meta property="dcterms:modified">2017-07-21T00:18:44Z</meta>
-		<meta property="se:revision-number">9</meta>
+		<meta property="dcterms:modified">2017-07-27T20:30:55Z</meta>
+		<meta property="se:revision-number">10</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -25,8 +25,8 @@
 		<dc:description id="description">A shipwrecked sailor travels through a portal to a lost world populated by fantastic creatures and a strange civilization.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;A Strange Manuscript Found in a Copper Cylinder&lt;/i&gt; is perhaps James De Mille’s most popular book; sadly, De Mille didn’t get to see this novel grow in popularity, as it was first serialized posthumously, in &lt;i&gt;Harper’s Weekly&lt;/i&gt;.  De Mille had written the novel before the “lost world” genre had become saturated, meaning many of the ideas were fresh and original for the time in which it was written.  But, since he didn’t succeed in publishing it during his lifetime, by the time the novel was made public other authors like H. Rider Haggard had made the ideas and plot clichéd.&lt;/p&gt;
-			&lt;p&gt;The novel itself tells the tale of a shipwrecked sailor, Adam More, who passes through a mysterious underground passage into a hidden land deep in the Antarctic, kept warm by a hidden volcano.  The land is populated by an ancient civilization whose views on life and wealth are the polar opposite of those held in British society of the time—they view death and poverty as the highest religious and social achievements.  As More adventures through the strange land, he encounters fantastic dinosaurs, lovelorn princesses, and the classic kind of adventure that foreshadows the pulp novels of the next century.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;A Strange Manuscript Found in a Copper Cylinder&lt;/i&gt; is perhaps James De Mille’s most popular book; sadly, De Mille didn’t get to see this novel grow in popularity, as it was first serialized posthumously, in &lt;i&gt;Harper’s Weekly&lt;/i&gt;. De Mille had written the novel before the “lost world” genre had become saturated, meaning many of the ideas were fresh and original for the time in which it was written. But, since he didn’t succeed in publishing it during his lifetime, by the time the novel was made public other authors like H. Rider Haggard had made the ideas and plot clichéd.&lt;/p&gt;
+			&lt;p&gt;The novel itself tells the tale of a shipwrecked sailor, Adam More, who passes through a mysterious underground passage into a hidden land deep in the Antarctic, kept warm by a hidden volcano. The land is populated by an ancient civilization whose views on life and wealth are the polar opposite of those held in British society of the time—they view death and poverty as the highest religious and social achievements. As More adventures through the strange land, he encounters fantastic dinosaurs, lovelorn princesses, and the classic kind of adventure that foreshadows the pulp novels of the next century.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
