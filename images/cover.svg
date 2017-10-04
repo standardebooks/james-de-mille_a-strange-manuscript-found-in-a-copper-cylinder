@@ -3,8 +3,7 @@
 	<title>The cover for the Standard Ebooks edition of A Strange Manuscript Found in a Copper Cylinder, by James De Mille</title>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
 	<path d="M 50,1620 1350,1620 1350,2050 50,2050 Z" style="color:#000;fill-opacity:0.75"/>
-	<text style="fill:#fff;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="1735">A STRANGE</text>
-	<text style="fill:#fff;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="1815">MANUSCRIPT FOUND</text>
-	<text style="fill:#fff;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="1895">IN A COPPER CYLINDER</text>
-	<text style="fill:#fff;font-family:League Spartan;font-size:46.7840004px;letter-spacing:5px" text-anchor="middle" x="700" y="1995">JAMES DE MILLE</text>
+	<text style="fill:#fff;font-family:League Spartan;font-size:58.47953033px;letter-spacing:5px" text-anchor="middle" x="700" y="1775">A STRANGE MANUSCRIPT</text>
+	<text style="fill:#fff;font-family:League Spartan;font-size:58.47953033px;letter-spacing:5px" text-anchor="middle" x="700" y="1845">FOUND IN A COPPER CYLINDER</text>
+	<text style="fill:#fff;font-family:League Spartan;font-size:46.7840004px;letter-spacing:5px" text-anchor="middle" x="700" y="1945">JAMES DE MILLE</text>
 </svg>
