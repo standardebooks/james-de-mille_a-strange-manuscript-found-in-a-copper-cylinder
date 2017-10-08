@@ -51,15 +51,6 @@ p span.i1{
 	padding-left: 2em;
 }
 
-li > p:first-child{
-	text-indent: 0;
-}
-
-ol + p,
-table + p{
-	text-indent: 0;
-}
-
 table{
 	margin: 1em auto;
 }
