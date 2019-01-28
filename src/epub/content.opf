@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder</dc:identifier>
 		<dc:date>2017-05-01T22:46:41Z</dc:date>
-		<meta property="dcterms:modified">2019-01-20T17:54:00Z</meta>
-		<meta property="se:revision-number">26</meta>
+		<meta property="dcterms:modified">2019-01-28T22:47:15Z</meta>
+		<meta property="se:revision-number">27</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,7 +43,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6709</dc:source>
 		<dc:source>https://books.google.com/books?id=ZG0mAAAAMAAJ</dc:source>
-		<meta property="se:word-count">87187</meta>
+		<meta property="se:word-count">87184</meta>
 		<meta property="se:reading-ease.flesch">69.82</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Strange_Manuscript_Found_in_a_Copper_Cylinder</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-de-mille_a-strange-manuscript-found-in-a-copper-cylinder</meta>
