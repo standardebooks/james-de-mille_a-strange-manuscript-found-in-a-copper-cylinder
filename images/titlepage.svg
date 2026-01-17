@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 540">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 640">
 	<title>The titlepage for the Standard Ebooks edition of A Strange Manuscript Found in a Copper Cylinder, by James De Mille</title>
 	<style type="text/css">
 		text{
@@ -17,7 +17,8 @@
 		}
 	</style>
 	<text class="title" x="700" y="130">A STRANGE</text>
-	<text class="title" x="700" y="230">MANUSCRIPT FOUND</text>
-	<text class="title" x="700" y="330">IN A COPPER CYLINDER</text>
-	<text class="author" x="700" y="490">JAMES DE MILLE</text>
+	<text class="title" x="700" y="230">MANUSCRIPT</text>
+	<text class="title" x="700" y="330">FOUND IN</text>
+	<text class="title" x="700" y="430">A COPPER CYLINDER</text>
+	<text class="author" x="700" y="590">JAMES DE MILLE</text>
 </svg>
