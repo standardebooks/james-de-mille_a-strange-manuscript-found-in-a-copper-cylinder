@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-3.xhtml">
 		<ignore code="y-035">
+			<line>42</line>
 			<reason>Matched text is prose style.</reason>
 		</ignore>
 	</file>
